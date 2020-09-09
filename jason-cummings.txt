@@ -25,7 +25,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     19. What is the difference between a class and an id? - Give me an example of when I might use each one. ID is completely unique and used only once and therefore has increased specificity. Classes can be reused. An id might be for the title of the homepage, where a class may be used for a navigation set of anchor elements that appear on every page.
     20. How do we select classes in CSS? Classes are specified with a period "." before the name of said class.
     21. How do we select a p element with a single class of “human””? .human
-    22. What is a parent child selector? When would this be useful? 
+    22. What is a parent child selector? When would this be useful? This selects both the parent element and direct child of that parent element. It provides extra specificity and helps to section off bits of HTML to modify the correct section.
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
