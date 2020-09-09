@@ -20,7 +20,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     14. What is the alt attribute in the image tag used for? To give a written description of the image in case the image does not show up, or for the visually impaired.
     15. How do I reference an id? To reference an html ID in CSS, you must put the # symbol before the name of the id that you created.
     16. What is the difference between a section and a div? They are essentially the same, except that section provides additional information. Namely, that the information all grouped within the same section element all relates to eachtoher.
-    17. What is CSS used for? 
+    17. What is CSS used for? To give style to a webpage.
     18. How to we select an element? Example - every h2 on the page
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
     20. How do we select classes in CSS?
