@@ -14,7 +14,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     8. What elements can I add an id to? All elements can be supplemented with an ID attribute.
     9. How many times can I use the same id on a page? Only once per page.
     10. What is a class? It is an identifier tag, same as an id, except it can be used multiple times on the same page.
-    11. What elements can I add a class to? 
+    11. What elements can I add a class to? All elements.
     12. How many times can I use the same class on a page? 
     13. How do I get my link to open in a new tab?
     14. What is the alt attribute in the image tag used for? 
