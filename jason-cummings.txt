@@ -10,8 +10,8 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     4. What is the h1 tag used for? How many times should I use it on a page? H1 is the main title or headline on a page and should only be used one time per page.
     5. Name two tags that have required attributes: the anchor <a> tag and the image <image> tags both require attributes to function properly.
     6. What do we put in the head of our HTML document? Additional information that isn't contained or displayed in the body of the HTML document, such as charset, page title, etc.
-    7. What is an id? A unique identifier attached to an HTML element that allows you to target only that id for modification.
-    8. What elements can I add an id to? 
+    7. What is an id? A unique identifier (used ONLY ONCE per page) attached to an HTML element that allows you to target only that id for modification.
+    8. What elements can I add an id to? All elements can be supplemented with an ID attribute.
     9. How many times can I use the same id on a page? 
     10. What is a class? 
     11. What elements can I add a class to? 
