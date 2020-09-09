@@ -35,7 +35,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     29. How do I select everything on the page? The asterisk identifier < * > will select everything on the page.
     30. How do I write a comment in CSS? /* This is a CSS comment and will not be read by the browser */
     31. How do I find out what file I am in, when I am using the command line? pwd (stand for Print Working Directory) will return your current directory location.
-    32. Using the command line - how do I see a list of files/folders in my current folder?
+    32. Using the command line - how do I see a list of files/folders in my current folder? ls
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
     34. Why should I use version control? 
     35. How often should I commit to github?
