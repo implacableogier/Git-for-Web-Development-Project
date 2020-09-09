@@ -8,7 +8,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     2. What is HTML used for? To markup internet pages with content; to give structure to web pages.
     3. What is an attribute and where do we put it? An attribute is a characteristic of an html element, and usually directly follows the element.
     4. What is the h1 tag used for? How many times should I use it on a page? H1 is the main title or headline on a page and should only be used one time per page.
-    5. Name two tags that have required attributes
+    5. Name two tags that have required attributes: the anchor <a> tag and the image <image> tags both require attributes to function properly.
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
     8. What elements can I add an id to? 
