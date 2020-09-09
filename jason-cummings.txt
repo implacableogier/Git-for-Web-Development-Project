@@ -40,4 +40,4 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     34. Why should I use version control? It is useful when collaborating and to save different versions of software. Also to make changes to software and being able to revert to earlier versions without concern.
     35. How often should I commit to github? Every single meaningful change.
     36. What is the command we would use to push our repo up to github? git push -u origin branch-name
-    37. Walk me through Lambda's git flow. 
+    37. Walk me through Lambda's git flow. Fork the repo, add TL, clone the repo, add and commit changes as necessary, pull, push, DONE!
