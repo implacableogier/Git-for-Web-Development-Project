@@ -18,7 +18,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     12. How many times can I use the same class on a page? As many as necessary/convenient.
     13. How do I get my link to open in a new tab? By adding the "_blank" attribute to the associated anchor element.
     14. What is the alt attribute in the image tag used for? To give a written description of the image in case the image does not show up, or for the visually impaired.
-    15. How do I reference an id?
+    15. How do I reference an id? To reference an html ID in CSS, you must put the # symbol before the name of the id that you created.
     16. What is the difference between a section and a div
     17. What is CSS used for? 
     18. How to we select an element? Example - every h2 on the page
