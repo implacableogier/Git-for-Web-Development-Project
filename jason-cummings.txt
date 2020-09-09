@@ -39,5 +39,5 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     33. How do I remove a file via the command line? Why do I have to be careful with this? rm <filename>. Be careful because this is not reversible.
     34. Why should I use version control? It is useful when collaborating and to save different versions of software. Also to make changes to software and being able to revert to earlier versions without concern.
     35. How often should I commit to github? Every single meaningful change.
-    36. What is the command we would use to push our repo up to github? 
+    36. What is the command we would use to push our repo up to github? git push -u origin branch-name
     37. Walk me through Lambda's git flow. 
