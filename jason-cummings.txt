@@ -30,7 +30,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     24. What is a pseudo selector? Selects for elements in a specific state, such as a:hover, which selects elements that are being hovered over with a mouse cursor.
     25. What do we use to change the spacing between lines? line-height:
     26. What do we use to change the spacing between letters? letter-spacing:
-    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? text-transform: uppercase; text-transform: lowercase; text-transform: uppercase.
     28. How do I add a 1px border around my div that is dotted and black?
     29. How do I select everything on the page? 
     30. How do I write a comment in CSS?
